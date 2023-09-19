@@ -15,7 +15,7 @@ user_groups:
 weight: 40
 
 # Role/position/tagline
-role: -
+role: Civil Servant
 
 # Organizations/Affiliations to show in About widget
 organizations:
