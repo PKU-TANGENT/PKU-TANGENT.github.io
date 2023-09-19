@@ -10,12 +10,12 @@ authors:
   - Yu Xia
 
 user_groups: 
-- Grad. Students
+- Alumni
 
 weight: 10
 
 # Role/position/tagline
-role: Grad. student (2020 - 2023)
+role: THU
 
 # Organizations/Affiliations to show in About widget
 organizations:

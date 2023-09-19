@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Hongbo Wang
+title: Jiebin Zhang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Username (this should match the folder name)
 authors:
-  - Hongbo Wang
+  - Jiebin Zhang
 
 user_groups: 
-- Alumni
+- Ph.D. Students
 
-weight: 30
+weight: 60
 
 # Role/position/tagline
-role: -
+role: Ph.D. student (2023 - 2028)
 
 # Organizations/Affiliations to show in About widget
 organizations:

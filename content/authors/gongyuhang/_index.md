@@ -10,12 +10,12 @@ authors:
   - Yuhang Gong
 
 user_groups: 
-- Grad. Students
+- Alumni
 
 weight: 20
 
 # Role/position/tagline
-role: Grad. Student (2020 - 2023)
+role: Google
 
 # Organizations/Affiliations to show in About widget
 organizations:

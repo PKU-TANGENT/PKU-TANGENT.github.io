@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Hongbo Wang
+title: Weimin Xiong
 
 # Is this the primary user of the site?
 superuser: false
 
 # Username (this should match the folder name)
 authors:
-  - Hongbo Wang
+  - Weimin Xiong
 
 user_groups: 
-- Alumni
+- Ph.D. Students
 
-weight: 30
+weight: 50
 
 # Role/position/tagline
-role: -
+role: Ph.D. student (2023 - 2028)
 
 # Organizations/Affiliations to show in About widget
 organizations:
