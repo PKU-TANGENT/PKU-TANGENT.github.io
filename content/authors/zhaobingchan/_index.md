@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Hongbo Wang
+title: Bingchan Zhao
 
 # Is this the primary user of the site?
 superuser: false
 
 # Username (this should match the folder name)
 authors:
-  - Hongbo Wang
+  - Bingchan Zhao
 
 user_groups: 
-- Alumni
+- Grad. Students
 
-weight: 30
+weight: 10
 
 # Role/position/tagline
-role: Civil Servant
+role: Grad. Student (2021 - 2024)
 
 # Organizations/Affiliations to show in About widget
 organizations:

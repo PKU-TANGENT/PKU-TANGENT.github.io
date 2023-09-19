@@ -12,7 +12,7 @@ authors:
 user_groups: 
 - Grad. Students
 
-weight: 50
+weight: 20
 
 # Role/position/tagline
 role: Grad. Student (2022 - 2025)

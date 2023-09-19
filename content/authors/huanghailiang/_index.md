@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Hongbo Wang
+title: Hailiang Huang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Username (this should match the folder name)
 authors:
-  - Hongbo Wang
+  - Hailiang Huang
 
 user_groups: 
-- Alumni
+- Grad. Students
 
-weight: 30
+weight: 50
 
 # Role/position/tagline
-role: Civil Servant
+role: Grad. Student (2023 - 2026)
 
 # Organizations/Affiliations to show in About widget
 organizations:

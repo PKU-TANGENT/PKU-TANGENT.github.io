@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Hongbo Wang
+title: Junhao You
 
 # Is this the primary user of the site?
 superuser: false
 
 # Username (this should match the folder name)
 authors:
-  - Hongbo Wang
+  - Junhao You
 
 user_groups: 
-- Alumni
+- Grad. Students
 
 weight: 30
 
 # Role/position/tagline
-role: Civil Servant
+role: Grad. Student (2023 - 2026)
 
 # Organizations/Affiliations to show in About widget
 organizations:
