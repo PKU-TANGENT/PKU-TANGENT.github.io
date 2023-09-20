@@ -15,7 +15,7 @@ user_groups:
 weight: 50
 
 # Role/position/tagline
-role: Ph.D. student (2023 - 2028)
+role: Ph.D. student
 
 # Organizations/Affiliations to show in About widget
 organizations:
