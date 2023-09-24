@@ -1,20 +1,22 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'WeCheck: Strong Factual Consistency Checker via Weakly Supervised Learning'
+title: 'PoSE: Efficient Context Window Extension of LLMs via Positional Skip-wise
+  Training'
 subtitle: ''
 summary: ''
 authors:
+- Dawei Zhu
+- Nan Yang
+- Liang Wang
+- Yifan Song
 - Wenhao Wu
-- Wei Li
-- Xinyan Xiao
-- Jiachen Liu
+- Furu Wei
 - Sujian Li
-- Yajuan Lv
 tags: []
 categories: []
-date: '2022-01-01'
-lastmod: 2023-02-18T10:21:52+08:00
+date: '2023-01-01'
+lastmod: 2023-09-24T19:59:03+08:00
 featured: false
 draft: false
 
@@ -32,9 +34,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-02-18T02:48:15.496705Z'
+publishDate: '2023-09-24T11:59:03.032111Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*arXiv preprint arXiv:2212.10057*'
+publication: '*arXiv preprint arXiv:2309.10400*'
 ---
